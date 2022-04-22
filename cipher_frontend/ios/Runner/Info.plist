@@ -43,5 +43,9 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<true/>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>C;pher needs access to upload code.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>C;pher needs access to upload code.</string>
 </dict>
 </plist>
